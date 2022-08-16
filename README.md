@@ -4,7 +4,8 @@
 ### 👩‍💻 About Me 👩‍💻
 <p>성균관대학교 소프트웨어학과<br>
 네이버 커넥트 부스트캠프 웹·모바일 6기<br>
-2021 KAIST 몰입캠프 겨울학기</p>
+2021 KAIST 몰입캠프 겨울학기<br>
+띵스플로우 스플 안드로이드 개발 인턴</p>
 
 <a href="mailto:gnlgus48@g.skku.edu"><img src="https://img.shields.io/badge/@g.skku.edu-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <a href="mailto:aks717_412@naver.com"><img src="https://img.shields.io/badge/@naver.com-2DB400?style=flat-square&logo=Naver&logoColor=white"/>  
 
