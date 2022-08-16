@@ -6,7 +6,7 @@
 네이버 커넥트 부스트캠프 웹·모바일 6기<br>
 2021 KAIST 몰입캠프 겨울학기</p>
 
-<a href="mailto:gnlgus48@g.skku.edu"><img src="https://img.shields.io/badge/gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <a href="mailto:aks717_412@naver.com"><img src="https://img.shields.io/badge/naver.com-2DB400?style=flat-square&logo=Naver&logoColor=white"/>  
+<a href="mailto:gnlgus48@g.skku.edu"><img src="https://img.shields.io/badge/gnlgus48@g.skku.edu-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <a href="mailto:aks717_412@naver.com"><img src="https://img.shields.io/badge/aks717_412@naver.com-2DB400?style=flat-square&logo=Naver&logoColor=white"/>  
 
 
 ### 🛠 Tools & Languages 🛠
